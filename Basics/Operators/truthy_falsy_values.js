@@ -8,7 +8,7 @@ console.log("false || 1 = ", (false||1));
 // Short-Curcuiting, here only first logical operation is performed killing the other operations in front.
 console.log("false || 1 || 2 =", (false || 1 || 2));
 
-let userColor = 'red';
+let userColor = null;
 let defaultColor = 'blue';
 let currentColor = userColor || defaultColor;
 console.log(currentColor);
