@@ -1,4 +1,4 @@
-// It is used to iterate over the properties of an object or elements in an array.
+// It is used to iterate over the properties of an object.
 
 let person = {
     name: 'Anjali',
