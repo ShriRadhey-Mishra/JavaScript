@@ -23,5 +23,5 @@ function Circle(radius) {
 const circle2 = new Circle(20);
 
 // checking the constructor property of objects.
-circle1.constructor()
-circle2.constructor()
+console.log(circle1.constructor);
+console.log(circle2.constructor);
