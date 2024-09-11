@@ -1,5 +1,5 @@
 // Factory functions creates objects
-// Factory functions uses Camel Notations by default
+// Factory functions uses camelNotations by default
 
 function createCircle(radius) {
     return {
