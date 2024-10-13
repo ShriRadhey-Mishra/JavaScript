@@ -13,3 +13,5 @@ console.log(name);
 // 2.
 let firstName = "Anjali"; 
 let lastName = "Bhardwaj";
+
+console.log(firstName, lastName);
